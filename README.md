@@ -8,9 +8,9 @@ public class Swap{
    System.out.println("x = " + x);
    System.out.println("y = " + y);
    
-     int temp = x;
+     int alter = x;
      x=y;
-     y=temp;
+     y=alter;
    
    System.out.println("After Swap");
    System.out.println("x = " + x);
